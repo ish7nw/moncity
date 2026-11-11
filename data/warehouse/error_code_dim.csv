@@ -1,0 +1,6 @@
+"ERRORCODE","ERRORMESSAGE"
+"Error001","Image recognition system failed"
+"Error002","Low Battery"
+"Error003","Signal loss: front sensor"
+"Error004","Lidar systeem failed:Unable to locate"
+"Error005","Unknow issue: please contact with maintenance team"
